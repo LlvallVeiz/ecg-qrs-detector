@@ -1,0 +1,16 @@
+ECG QRS detection — results
+===========================
+Sampling rate        : 250 Hz
+Duration             : 10 s
+Ground-truth beats   : 11
+Detected beats       : 11
+True positives       : 11
+False positives      : 0
+False negatives      : 0
+Sensitivity          : 100.0%
+Precision            : 100.0%
+Ground-truth HR      : 72.0 bpm (generator setting)
+Detected mean HR     : 72.50 bpm
+HR error             : 0.50 bpm
+Detected R peaks (samples): [150, 359, 563, 774, 987, 1187, 1390, 1599, 1806, 2014, 2219]
+Ground-truth R peaks (samples): [150, 360, 564, 775, 987, 1188, 1390, 1599, 1806, 2015, 2219]
